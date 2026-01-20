@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4y30h8FbuBs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Projects\\ModularMonolithEshop\\src\\Shared\\Shared.Contracts\\Shared.Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

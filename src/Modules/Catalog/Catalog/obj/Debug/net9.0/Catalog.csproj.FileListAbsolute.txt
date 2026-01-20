@@ -1,0 +1,15 @@
+C:\Users\PC\Projects\ModularMonolithEshop\src\Modules\Catalog\Catalog\bin\Debug\net9.0\Catalog.deps.json
+C:\Users\PC\Projects\ModularMonolithEshop\src\Modules\Catalog\Catalog\bin\Debug\net9.0\Catalog.dll
+C:\Users\PC\Projects\ModularMonolithEshop\src\Modules\Catalog\Catalog\bin\Debug\net9.0\Catalog.pdb
+C:\Users\PC\Projects\ModularMonolithEshop\src\Modules\Catalog\Catalog\bin\Debug\net9.0\Shared.dll
+C:\Users\PC\Projects\ModularMonolithEshop\src\Modules\Catalog\Catalog\bin\Debug\net9.0\Shared.pdb
+C:\Users\PC\Projects\ModularMonolithEshop\src\Modules\Catalog\Catalog\obj\Debug\net9.0\Catalog.csproj.AssemblyReference.cache
+C:\Users\PC\Projects\ModularMonolithEshop\src\Modules\Catalog\Catalog\obj\Debug\net9.0\Catalog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Projects\ModularMonolithEshop\src\Modules\Catalog\Catalog\obj\Debug\net9.0\Catalog.AssemblyInfoInputs.cache
+C:\Users\PC\Projects\ModularMonolithEshop\src\Modules\Catalog\Catalog\obj\Debug\net9.0\Catalog.AssemblyInfo.cs
+C:\Users\PC\Projects\ModularMonolithEshop\src\Modules\Catalog\Catalog\obj\Debug\net9.0\Catalog.csproj.CoreCompileInputs.cache
+C:\Users\PC\Projects\ModularMonolithEshop\src\Modules\Catalog\Catalog\obj\Debug\net9.0\Catalog.csproj.Up2Date
+C:\Users\PC\Projects\ModularMonolithEshop\src\Modules\Catalog\Catalog\obj\Debug\net9.0\Catalog.dll
+C:\Users\PC\Projects\ModularMonolithEshop\src\Modules\Catalog\Catalog\obj\Debug\net9.0\refint\Catalog.dll
+C:\Users\PC\Projects\ModularMonolithEshop\src\Modules\Catalog\Catalog\obj\Debug\net9.0\Catalog.pdb
+C:\Users\PC\Projects\ModularMonolithEshop\src\Modules\Catalog\Catalog\obj\Debug\net9.0\ref\Catalog.dll
